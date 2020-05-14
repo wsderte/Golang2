@@ -1,4 +1,4 @@
-module github.com/roman-mazur/design-practice-2-template
+module github.com/wsderte/Golang2/design-practice-2-template-master
 
 go 1.14
 
